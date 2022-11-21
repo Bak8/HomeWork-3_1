@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     
 //    @IBOutlet weak var labelResult: UILabel!
     
+    
     @IBOutlet weak var result: UILabel!
     
     
